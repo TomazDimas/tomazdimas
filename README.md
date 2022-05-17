@@ -1,8 +1,8 @@
 ### Oi meu nome é Tomaz e eu sou Estudante de Desenvolvimento Web! 👋
 
 
-- 🔭 Estou realizando projetos com HTML, CSS e JavaScript;
-- 🌱 No momento, estou aprendendo mais tecnologias de front-end como React;
+- 🔭 Estou realizando projetos com HTML, CSS, JavaScript e React;
+- 🌱 No momento, estou aprendendo mais sobre React;
 - 😄 Também vou estudar back-end e me tornar um desenvolvedor Full Stack;
 
 <div align="center">
