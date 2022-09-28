@@ -1,9 +1,9 @@
 ### Oi meu nome é Tomaz e eu sou Estudante de Desenvolvimento Web! 👋
 
 
-- 🔭 Estou realizando projetos com HTML, CSS, JavaScript e React;
-- 🌱 No momento, estou aprendendo mais sobre React;
-- 😄 Também vou estudar back-end e me tornar um desenvolvedor Full Stack;
+- 🔭 Atualmente estou aprendendo Node.JS, TypeCript e APIs REST.
+- 🌱 Sou apaixonado por tecnologia, mas pode me perguntar sobre qualquer assunto!
+- 😄 Já sou formato em Front-End e em breve me tornarei um desenvolvedor Full-Stack!
 
 <div align="center">
   <a href="https://github.com/tomazdimas">
@@ -12,11 +12,11 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Tomaz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Tomaz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Tomaz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Tomaz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Tomaz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
   ##
